@@ -64,4 +64,4 @@
 8. Buzzer 1 ตัว
 9. กระดาษลัง
 10. สายไฟ
-11. Powerbank
+11. Powerbank 3 ตัว
