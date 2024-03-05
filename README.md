@@ -31,10 +31,10 @@
 
 **SourceCode** :
 - Card.ino
-- Keypad.ino
+- keypad.ino
 - LCD.ino
-- Ultrasonic_sen.ino
-- LED.ino
+- Ultrasonic.ino
+- led.ino
 - Servo.ino
 
 **License.txt**
