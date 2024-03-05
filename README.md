@@ -22,12 +22,12 @@
 **Pictures** (โฟลเดอร์รวบรวมไฟล์รูปภาพชิ้นงาน)
 
 **Schematic** :
-- Schematic_1_Card.png (Schematic ของบอร์ดสแกนบัตร)
-- Schematic_2_keypad.png (Schematic ของบอร์ดปุ่มกด)
-- Schematic_3_LCD.png (Schematic ของบอร์ดแสดงข้อความ)
-- Schematic_4_Ultrasonic.png (Schematic ของบอร์ดultrasonicสำหรับวัดระยะห่างของประตู)
-- Schematic_5_led.png (Schematic ของบอร์ดแสดงไฟสถานะและเสียง)
-- Schematics_6_Servo.png (Schematic ของบอร์ดสำหรับการล็อคประตู)
+- Card.png (Schematic ของบอร์ดสแกนบัตร)
+- keypad.png (Schematic ของบอร์ดปุ่มกด)
+- LCD.png (Schematic ของบอร์ดแสดงข้อความ)
+- Ultrasonic.png (Schematic ของบอร์ดultrasonicสำหรับวัดระยะห่างของประตู)
+- led.png (Schematic ของบอร์ดแสดงไฟสถานะและเสียง)
+- Servo.png (Schematic ของบอร์ดสำหรับการล็อคประตู)
 
 **SourceCode** :
 - Card.ino
