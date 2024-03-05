@@ -50,7 +50,8 @@
 - iostream
 - Ultrasonic.h
 - Keypad.h
-  
+- MFRC522.h
+- SPI.h
 
 
 ## Hardware
