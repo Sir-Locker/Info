@@ -12,7 +12,7 @@
 - นางสาวจิณณพิชญ์ ธีรชัยไพศาล 6410504004
 - นายนภนต์ ตันศิริ  6410504128
 - นายพีรพัฒน์ จตุภัทรเสนี
-- นางสาวแพรวา ฮอนด้า
+- นางสาวแพรวา ฮอนด้า 6410504217
 - นายศศิศ กิตติธนะพันธ์
 - นายรุษฐนพล อูปทอง
 
@@ -23,7 +23,7 @@
 
 **Schematic** :
 - Schematic_1_Card.png (Schematic ของบอร์ดสแกนบัตร)
-- Schematic_2_Keypad.png (Schematic ของบอร์ดปุ่มกด)
+- Schematic_2_keypad.png (Schematic ของบอร์ดปุ่มกด)
 - Schematic_3_LCD.png (Schematic ของบอร์ดแสดงข้อความ)
 - Schematic_4_Ultrasonic.png (Schematic ของบอร์ดultrasonicสำหรับวัดระยะห่างของประตู)
 - Schematic_5_LEDandBuzzer.png (Schematic ของบอร์ดแสดงไฟสถานะและเสียง)
@@ -33,7 +33,7 @@
 - Card.ino
 - Keypad.ino
 - LCD.ino
-- Ultrasonic.ino
+- Ultrasonic_sen.ino
 - LED.ino
 - Servo.ino
 
@@ -56,7 +56,7 @@
 ## Hardware
 1. NodeMCU 6 บอร์ด
 2. Keypad 4x4 1 ชิ้น
-3. Ultrasonic sensors 3 ตัว
+3. Grove-Ultrasonic Ranger 1 ตัว
 4. Servo motor 1 ตัว
 5. Breadboard 4 ชิ้น
 6. จอ LCD 1 จอ
